@@ -2,6 +2,7 @@ function happyHolidays() {
   return("Happy holidays!");
 }
 function happyHolidaysTo(name) {
+  this.name = "you"
   return("Happy holidays, ${name}!")
   }
 function happyHolidayTo(holiday, name) {
