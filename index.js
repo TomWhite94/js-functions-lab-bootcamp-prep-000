@@ -14,6 +14,6 @@ function happyHolidayTo(holiday, name) {
 happyHolidayTo(`Independance Day`, `you`)
 
 function holidayCountdown(days, holiday) {
-    return `It's ${days} days until ${holiday}!`;
+    return `It\'s ${days} days until ${holiday}!`;
 }
 holidayCountdown(20, `Mother's Day`)
