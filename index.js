@@ -1,4 +1,4 @@
-function happyHolidays(string) {
+function happyHolidays() {
   console.log("Happy holidays!")
 }
 function happyHolidaysTo(string) {
